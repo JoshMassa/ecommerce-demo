@@ -20,6 +20,10 @@ button {
     margin: 10px 0 5px 70px;
 }
 
+button:hover {
+    background-color: lightgrey;
+}
+
 /* figure {
 
 } */
