@@ -1,15 +1,12 @@
 /* Copyright (c) 2023 Joshua Massa-Pelletier. All rights reserved. */
 
+/* Universal Selector */
 * {
     margin: 0;
     padding: 0;
 }
 
-article {
-    display: flex;
-    flex-direction: column;
-}
-
+/* Element Selectors */
 body {
     background-color: grey;
 }
@@ -17,16 +14,12 @@ body {
 button {
     padding: 5px;
     width: max-content;
-    margin: 10px 0 5px 70px;
+    margin: 10px 0 5px 50px;
 }
 
 button:hover {
     background-color: lightgrey;
 }
-
-/* figure {
-
-} */
 
 figcaption {
     margin-left: 25px;
@@ -39,3 +32,17 @@ figcaption {
 html {
     box-sizing: border-box;
 }
+
+img {
+    height: 200px;
+    width: 200px;
+    
+}
+
+/* Class Selectors */
+.item {
+    display: flex;
+    flex-direction: column;
+}
+
+/* ID Selectors */
