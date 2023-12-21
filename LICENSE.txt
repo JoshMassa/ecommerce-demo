@@ -1,0 +1,19 @@
+SOFTWARE PROPRIETARY LICENSE AGREEMENT
+
+THIS SOFTWARE PROPRIETARY LICENSE AGREEMENT ("AGREEMENT") is a legally binding agreement between [JMP Productions] ("LICENSOR") and the individual or entity ("LICENSEE") who accesses and/or uses this software and its associated documentation (collectively, the "SOFTWARE").
+
+1. GRANT OF LICENSE: Licensor hereby grants Licensee a non-exclusive, non-transferable, non-sublicensable license to use the Software.
+
+2. RESTRICTIONS: Licensee agrees not to, and will not permit any third party to: (a) reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software; (b) make any modification to the Software; (c) distribute the Software to any third party; or (d) use the Software for any purpose other than as expressly permitted in this Agreement.
+
+3. LIMITATION OF LIABILITY: TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM LICENSEE'S USE OF THE SOFTWARE.
+
+4. TERMINATION: This Agreement is effective until terminated. Your rights under this Agreement will terminate immediately without notice from Licensor if you fail to comply with any provision of this Agreement. Upon termination, you must destroy all copies of the Software and all of its components.
+
+5. GOVERNING LAW: This Agreement shall be governed by and construed in accordance with the laws of [The United States of America], without regard to its conflict of law provisions.
+
+6. CHANGES TO THE SOFTWARE: Licensor reserves the right to make changes to the Software, which may be incorporated into the Software by Licensor.
+
+IN WITNESS WHEREOF, Licensor and Licensee have executed this Agreement as of [12/20/2023].
+
+[JMP Productions]       [Joshua Massa-Pelletier]

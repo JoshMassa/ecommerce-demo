@@ -1,0 +1,37 @@
+/* Copyright (c) 2023 Joshua Massa-Pelletier. All rights reserved. */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background-color: grey;
+}
+
+button {
+    padding: 5px;
+    width: max-content;
+    margin: 10px 0 0 115px;
+}
+
+/* figure {
+
+} */
+
+figcaption {
+    margin-left: 25px;
+    padding: 5px;
+    border: 3px solid black;
+    width:max-content;
+    background-color: #fff;
+}
+
+html {
+    box-sizing: border-box;
+}
