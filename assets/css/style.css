@@ -33,12 +33,6 @@ html {
     box-sizing: border-box;
 }
 
-img {
-    height: 200px;
-    width: 200px;
-    
-}
-
 /* Class Selectors */
 .item {
     display: flex;
